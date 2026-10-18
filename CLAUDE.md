@@ -30,6 +30,9 @@ pdf/         # generador del PDF de ejemplo (pipeline en README.md)
 - **Contacto**: `aviipanama@gmail.com` e Instagram `@avii.pa` (enlace limpio
   `https://www.instagram.com/avii.pa`, sin tokens `?stkn=`).
 - Idioma: español, público general de Panamá.
+- **Video "Así funciona"** (YouTube `CJME4h8PtLU`, canal AVII Panamá) embebido
+  con `youtube-nocookie.com` bajo los 3 pasos de `#como-funciona`. Fuente y
+  scripts para regenerarlo: `avii_net/video/`.
 - Pendiente: botón de WhatsApp Business (`wa.me/507XXXXXXXX` con mensaje
   prellenado) como contacto principal cuando el dueño tenga el número.
 
